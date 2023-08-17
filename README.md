@@ -1,0 +1,2 @@
+# SCAUJWXT-CalendarSupport_Tampermonkey
+支持SCAU教务系统导出ICS文件的油猴拓展
