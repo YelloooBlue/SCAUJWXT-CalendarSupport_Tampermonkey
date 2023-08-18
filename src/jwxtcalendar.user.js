@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         SCAU教务系统——课表导出ICS文件支持
-// @namespace    http://scau.yellowblue.top
-// @version      0.1(20230817)
+// @namespace    https://scau.yellowblue.top/ICS
+// @version      0.2(20230818)
 // @description  可将教务系统内的个人课表直接导出为ICS文件，方便导入到各种日历软件中。目前已全面兼容RFC 5545(icalendar)协议，适配更多设备。核心库版本V2.1
 // @author       YelloooBlue
 // @match        *://jwxt.scau.edu.cn/*
+// @updateURL    https://github.com/YelloooBlue/SCAUJWXT-CalendarSupport_Tampermonkey/raw/main/src/jwxtcalendar.user.js
+// @downloadURL  https://github.com/YelloooBlue/SCAUJWXT-CalendarSupport_Tampermonkey/raw/main/src/jwxtcalendar.user.js
+// @updateNote   New in version 0.2: Added auto-update support.
 // @grant        none
 // ==/UserScript==
 
