@@ -6,7 +6,9 @@
 // @author       YelloooBlue
 // @match        *://jwxt.scau.edu.cn/*
 // @updateURL    https://github.com/YelloooBlue/SCAUJWXT-CalendarSupport_Tampermonkey/raw/main/src/jwxtcalendar.user.js
+// @updateURL    https://gitee.com/YelloooBlue/SCAUJWXT-CalendarSupport_Tampermonkey/raw/main/src/jwxtcalendar.user.js
 // @downloadURL  https://github.com/YelloooBlue/SCAUJWXT-CalendarSupport_Tampermonkey/raw/main/src/jwxtcalendar.user.js
+// @downloadURL  https://gitee.com/YelloooBlue/SCAUJWXT-CalendarSupport_Tampermonkey/raw/main/src/jwxtcalendar.user.js
 // @grant        none
 // ==/UserScript==
 
