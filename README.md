@@ -1,7 +1,10 @@
 [![Install](/doc/poster.png)](https://github.com/YelloooBlue/SCAUJWXT-CalendarSupport_Tampermonkey/raw/main/src/jwxtcalendar.user.js)
-> 点击上方图片可快速安装到油猴👆
+> 点击上方海报可快速安装到油猴👆
+> 点击上方海报可快速安装到油猴👆
+> 点击上方海报可快速安装到油猴👆
+---
 # SCAU教务系统——日历文件导出支持（油猴插件）
-支持SCAU教务系统导出ICS文件的油猴拓展
+这是一个使教务系统支持直接导出 .ics 格式课表，基于Tampermonkey油猴扩展开发的浏览器插件。可以自行配置使用，所有处理均在你的浏览器上完成。无需经过任何第三方服务器，代码完全开源可见。
 ## 运行环境
 - 安装了Tampermonkey油猴拓展的浏览器
 ## 使用说明
