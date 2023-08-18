@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         SCAU教务系统——课表导出ICS文件支持
 // @namespace    https://scau.yellowblue.top/ICS
-// @version      0.2.10(20230818)
+// @version      0.2.11(20230818)
 // @description  可将教务系统内的个人课表直接导出为ICS文件，方便导入到各种日历软件中。目前已全面兼容RFC 5545(icalendar)协议，适配更多设备。核心库版本V2.1
 // @author       YelloooBlue
 // @match        *://jwxt.scau.edu.cn/*
@@ -215,7 +215,7 @@
 
         // Create a text element
         const textElement = document.createElement('h3');
-        textElement.textContent = '扫码可支持作者！留意版本更新！';
+        textElement.textContent = '扫码可支持作者！留意版本更新！\nYelloooBlue@qq.com';
         textElement.style.color = '#000';
         textElement.style.textAlign = 'center';
         overlay.appendChild(textElement);
